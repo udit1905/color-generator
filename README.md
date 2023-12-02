@@ -1,3 +1,3 @@
-#### Values JS
+This is created using create-react-app
 
-[values.js](https://github.com/noeldelgado/values.js)
+
